@@ -1,3 +1,17 @@
+# changes in this fork
+* forked from : https://github.com/Bigfellahull/svg-pan-zoom
+* issue fixed in `Bigfellahull` : https://github.com/ariutta/svg-pan-zoom/issues/337
+* unfortunately, only the source is updated, not the built dist, therefore this fork pushes build dist with ready to use `svg-pan-zoom.min.js`
+
+## commands run for the build
+gulp might have to be manually installed
+
+  >npm install
+  >npm run build
+
+---
+
+
 ![svg-pan-zoom logo](http://ariutta.github.io/svg-pan-zoom/svg-pan-zoom-logo.png)
 
 svg-pan-zoom library
